@@ -30,12 +30,28 @@ University projects and homework.
   <li>:open_file_folder: Semester 2
     <ul>
       <li>
-        <a href="https://github.com/Pufcorina/Data-Structures-and-Algorithms"> 
-          :scissors:  Data Structures and Algorithms 
+        Dynamical Systems 
+      </li>
+      <li>
+        Geometry 
+      </li>
+      <li>
+        <a href="https://github.com/biancaszekely32/Data-Structures-and-Algorithms"> 
+        Data Structures and Algorithms 
         </a>
       </li>
       <li>
-        <a href="https://github.com/Pufcorina/Object-Oriented-Programming"> 
+        <a href="https://github.com/biancaszekely32/Operating-Systems"> 
+        Operating Systems 
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/biancaszekely32/Graph-Algorithms"> 
+        Graph Algorithms
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/biancaszekely32/Object-Oriented-Programming"> 
           :poop:  Object Oriented Programming 
         </a>
       </li>
