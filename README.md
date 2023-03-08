@@ -52,7 +52,7 @@ University projects and homework.
       </li>
       <li>
         <a href="https://github.com/biancaszekely32/Object-Oriented-Programming"> 
-          :poop:  Object Oriented Programming 
+          Object Oriented Programming 
         </a>
       </li>
     </ul>
@@ -60,28 +60,26 @@ University projects and homework.
   <li>:open_file_folder: Semester 3
     <ul>
       <li>
-        <a href="https://github.com/Pufcorina/Advanced-Methods-of-Programming"> 
-          :santa:  Advanced Methods of Programming 
+        Computer Networks 
+      </li>
+      <li>
+        <a href="https://github.com/biancaszekely32/Advanced-Methods-of-Programming"> 
+          Advanced Methods of Programming 
         </a>
       </li>
       <li>
-        <a href="https://github.com/Pufcorina/Computer-Networks"> 
-          :outbox_tray:  Computer Networks 
+        <a href="https://github.com/biancaszekely32/Databases"> 
+          Databases 
         </a>
       </li>
       <li>
-        <a href="https://github.com/Pufcorina/Databases"> 
-          :nut_and_bolt:  Databases 
+        <a href="https://github.com/biancaszekely32/Functional-and-Logic-Programming"> 
+          Functional and Logic Programming 
         </a>
       </li>
       <li>
-        <a href="https://github.com/Pufcorina/Functional-and-Logic-Programming"> 
-          :floppy_disk:  Functional and Logic Programming 
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/Pufcorina/Probability-and-Statistics"> 
-          :chart_with_upwards_trend:  Probability and Statistics
+        <a href="https://github.com/biancaszekely32/Probability-and-Statistics"> 
+          Probability and Statistics
         </a>
       </li>
     </ul>
