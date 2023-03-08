@@ -6,20 +6,18 @@ All of my university activity.
     <ul>
       <li>
         Algebra 
-        </a>
+      </li>
+      <li> 
+        Mathematical Analysis
       </li>
       <li>
-        <a href="https://github.com/biancaszekely32/Computational-Logic"> 
+        <a href="https://github.com/biancaszekely32/UBB-University-Projects/blob/main/Computational%20Logic"> 
         Computational Logic 
         </a>
       </li>
       <li>
         <a href="https://github.com/biancaszekely32/Fundamental-of-Programming"> 
         Fundamental of Programming 
-        </a>
-      </li>
-      <li> 
-        Mathematical Analysis
         </a>
       </li>
       <li>
