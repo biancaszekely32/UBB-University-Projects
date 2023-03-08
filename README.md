@@ -21,7 +21,7 @@ University projects and homework.
         </a>
       </li>
       <li>
-        <a href="https://github.com/biancaszekely32/Computer Systems Architecture"> 
+        <a href="https://github.com/biancaszekely32/Computer-Systems-Architecture"> 
         Computer Systems Architecture
         </a>
       </li>
