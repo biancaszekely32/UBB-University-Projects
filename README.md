@@ -1,5 +1,5 @@
 # UBB-University-Projects
-All of my university activity.
+University projects and homework.
 
 <ul>
   <li>:open_file_folder: Semester 1
@@ -11,7 +11,7 @@ All of my university activity.
         Mathematical Analysis
       </li>
       <li>
-        <a href="https://github.com/biancaszekely32/UBB-University-Projects/blob/main/Computational%20Logic"> 
+        <a href="https://github.com/biancaszekely32/Computational-Logic"> 
         Computational Logic 
         </a>
       </li>
