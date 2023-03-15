@@ -84,3 +84,28 @@ University projects and homework.
       </li>
     </ul>
   </li>
+    <li>:open_file_folder: Semester 4
+    <ul>
+      <li>
+        <a href="https://github.com/biancaszekely32/Database-Management-Systems">
+          Database Management Systems
+      </li>
+      <li>
+        <a href="https://github.com/biancaszekely32/WebProgramming">
+          Web Programming
+      </li>
+      <li>
+        <a href="https://github.com/biancaszekely32/Systems-for-Design-and-Implementation">
+           Systems for Design and Implementation
+      </li>
+      <li>
+        <a href="https://github.com/biancaszekely32/Artificial-Intelligence">
+           Artificial Intelligence
+      </li>
+      <li>
+        <a href="https://github.com/biancaszekely32/Software-Engineering">
+          Software Engineering
+        </a>
+      </li>
+    </ul>
+  </li>
